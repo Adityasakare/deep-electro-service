@@ -1,0 +1,1 @@
+# Changelog\n\n## 1.0.0 – 2026-11-10\n- Initial Angular website project for Deep Electro Services.\n- Added JSON-driven business content and product catalogue.\n- Added GitHub Pages deployment workflow and documentation.\n

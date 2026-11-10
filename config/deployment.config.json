@@ -1,0 +1,17 @@
+{
+  "github": {
+    "username": "Adityasakare",
+    "repository": "deep-electro-services",
+    "pagesEnabled": true
+  },
+  "domains": {
+    "githubPagesUrl": "https://Adityasakare.github.io/deep-electro-services/",
+    "customDomain": "www.deepelectrocharge.com",
+    "useCustomDomain": true,
+    "enforceHttps": true
+  },
+  "deployment": {
+    "deployToGitHubPages": true,
+    "useCustomDomain": true
+  }
+}

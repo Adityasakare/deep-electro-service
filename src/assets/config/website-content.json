@@ -1,0 +1,464 @@
+{
+  "site": {
+    "title": "Deep Electro Services | Bijlify EV Charging Solutions",
+    "companyName": "Deep Electro Services",
+    "tagline": "EV charging solutions for homes, destinations and high-traffic locations",
+    "description": "Authorised channel partner for Bijlify EV AC and DC charging solutions. Product guidance, site planning and commercial support for residential, hospitality, highway and fleet applications.",
+    "logo": "assets/images/des-logo.jpeg",
+    "primaryCta": {
+      "label": "Discuss Your Project",
+      "href": "/contact"
+    },
+    "phone": "",
+    "email": "",
+    "address": "Mumbai Metropolitan Region, Maharashtra, India",
+    "socialLinks": [],
+    "bijlifyLogo": "assets/images/bijlify-logo.webp",
+    "enquiryUrl": "https://forms.gle/yd9ZEZwc3PDTFzSw5",
+    "appUrl": "https://play.google.com/store/apps/details?id=com.evigo.evigo",
+    "themeColors": {
+      "navy": "#09265f",
+      "blue": "#123d91",
+      "cyan": "#36c5df",
+      "white": "#ffffff"
+    }
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "About Us",
+      "path": "/about"
+    },
+    {
+      "label": "Products",
+      "path": "/products"
+    },
+    {
+      "label": "Applications",
+      "path": "/applications"
+    },
+    {
+      "label": "Zen Bundle",
+      "path": "/zen-bundle"
+    },
+    {
+      "label": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "home": {
+    "eyebrow": "EV charging solutions",
+    "headline": "Powering the places where people live, work and travel.",
+    "description": "Explore Bijlify AC and DC EV chargers with practical product selection, preliminary site-planning guidance and commercial support from Deep Electro Services.",
+    "primaryCta": "Explore Products",
+    "secondaryCta": "Request a Consultation",
+    "highlights": [
+      {
+        "value": "3.3–22 kW",
+        "label": "AC charging range"
+      },
+      {
+        "value": "30–240 kW",
+        "label": "DC fast charging range"
+      },
+      {
+        "value": "Mumbai region",
+        "label": "Business support focus"
+      }
+    ],
+    "bijlifyLogoAlt": "Bijlify EV charging logo",
+    "chargerImage": "assets/images/bijlify-7-4kw-residential-installation.jpeg"
+  },
+  "about": {
+    "title": "About Deep Electro Services",
+    "shortTitle": "Powering the Future with Reliable Electrical & EV Charging Solutions",
+    "shortDescription": "With over 30 years of electrical industry experience, Deep Electro Services provides reliable EV charging infrastructure, battery testing solutions and technical consultation. As an Authorized Channel Partner of EViGO Charge, we bring the Bijlify range of AC and DC EV Chargers to residential, commercial, industrial and highway charging applications. From product selection and site assessment to technical guidance and installation coordination, we help customers make informed decisions and build reliable, commercially sustainable EV charging infrastructure.",
+    "commitment": "Technical Expertise. Trusted Products. Transparent Guidance. Long-Term Support.",
+    "description": "Deep Electro Services is a Mumbai-based electrical solutions and EV charging infrastructure company committed to delivering reliable, innovative and customer-focused solutions for India's growing electric mobility sector.",
+    "longSections": [
+      {
+        "title": "About Deep Electro Services",
+        "body": "Deep Electro Services is a Mumbai-based electrical solutions and EV charging infrastructure company committed to delivering reliable, innovative and customer-focused solutions for India's growing electric mobility sector. Founded by Mr. Padmakar Sakare, with over 30 years of experience in the electrical industry, Deep Electro Services brings together strong technical knowledge, practical industry experience and a customer-first approach."
+      },
+      {
+        "title": "Our Expertise",
+        "body": "We specialize in EV charging infrastructure and battery testing solutions. We support customers from initial consultation and product selection to technical guidance, installation coordination and after-sales support."
+      },
+      {
+        "title": "Our EV Charging Solutions",
+        "body": "We are an Authorized Channel Partner of EViGO Charge, promoting the Bijlify range of AC and DC EV Chargers, manufactured by Marin Electricals, Goa.",
+        "items": [
+          "AC EV Chargers: 3.3 kW, 7.4 kW, 11 kW, 15 kW and 22 kW.",
+          "DC Fast Chargers: 30 kW, 60 kW, 120 kW and 240 kW.",
+          "Smart charging solutions with OCPP compatibility, QR payments, UPI, mobile app and cloud-based monitoring."
+        ]
+      },
+      {
+        "title": "Who We Serve",
+        "body": "We provide EV charging solutions for a wide range of locations and business applications.",
+        "items": [
+          "Residential Societies and Housing Complexes",
+          "Real Estate Developers and Commercial Buildings",
+          "Hotels, Resorts and Restaurants",
+          "Highway Dhabas and Fuel Stations",
+          "EV Charging Station Investors and Charge Point Operators (CPOs)",
+          "Logistics Parks, Warehouses and Fleet Operators",
+          "Electric Bus, Truck and Commercial Vehicle Operators"
+        ]
+      },
+      {
+        "title": "Our Approach",
+        "body": "At Deep Electro Services, we believe that successful EV charging infrastructure requires more than just supplying a charger. It requires the right technical solution, proper electrical infrastructure, suitable location planning and a commercially viable business model. We focus on understanding each customer's requirements and recommending suitable products based on power availability, vehicle compatibility, site conditions and investment capacity. We believe in transparent communication, practical ROI guidance and long-term customer relationships rather than unrealistic business commitments."
+      },
+      {
+        "title": "Our Vision",
+        "body": "To contribute to India's electric mobility revolution by making reliable, accessible and commercially sustainable EV charging infrastructure available across residential, commercial and highway locations."
+      },
+      {
+        "title": "Our Mission",
+        "body": "To deliver dependable electrical and EV charging solutions through technical expertise, quality products, professional service and long-term customer support."
+      }
+    ],
+    "experience": "Founded by Mr. Padmakar Sakare, with over 30 years of experience in the electrical industry.",
+    "principles": [
+      "Technical Expertise",
+      "Trusted Products",
+      "Transparent Guidance",
+      "Long-Term Support"
+    ],
+    "closing": "Deep Electro Services – Your Trusted Partner for Electrical Solutions & EV Charging Infrastructure. Driving Innovation. Empowering Electric Mobility."
+  },
+  "products": [
+    {
+      "id": "3-3kw-ac",
+      "name": "3.3 kW AC Charger",
+      "category": "AC charging",
+      "power": "3.3 kW",
+      "connector": "IEC 60309 industrial socket (datasheet)",
+      "supply": "230 V, single phase (planning guide)",
+      "description": "Compact AC charging for homes, residential parking, offices and compatible light electric vehicles.",
+      "applications": [
+        "Individual homes",
+        "Apartment parking",
+        "Small residential societies",
+        "Offices and EV dealerships"
+      ],
+      "features": [
+        "Compact wall-box design",
+        "SIM-based smart connectivity",
+        "Energy measurement",
+        "Protection against short circuit and over-current"
+      ],
+      "image": "3.3-kw.jpeg",
+      "document": "3.3-kw-ev-ac-charger.pdf",
+      "visibility": true
+    },
+    {
+      "id": "7-4kw-ac",
+      "name": "7.4 kW Type-2 AC Charger",
+      "category": "AC charging · 7.4 kW",
+      "power": "7.4 kW",
+      "connector": "Type 2",
+      "supply": "230 V, single phase (planning guide)",
+      "description": "Smart Type-2 AC charging for homes, premium residential societies, hotels and commercial parking.",
+      "applications": [
+        "Residential societies",
+        "Villas",
+        "Hotels and resorts",
+        "Offices and malls"
+      ],
+      "features": [
+        "Wall or pole-mounted installation",
+        "Protection against electrical faults",
+        "Bijlify app monitoring and control",
+        "Third-party system integration"
+      ],
+      "image": "bijlify-7-4kw-residential-installation.jpeg",
+      "document": "7.4-kw-ac-ty-02-charger.pdf",
+      "visibility": true
+    },
+    {
+      "id": "11kw-ac",
+      "name": "11 kW Type-2 AC Charger",
+      "category": "AC charging",
+      "power": "11 kW",
+      "connector": "Type 2",
+      "supply": "415 V, three phase (planning guide)",
+      "description": "Destination charging for hotels, resorts, corporate parks and premium parking locations.",
+      "applications": [
+        "Business hotels",
+        "Resorts",
+        "Corporate parks",
+        "Shopping centres"
+      ],
+      "features": [
+        "Wall or pole-mounted installation",
+        "Smart interface",
+        "Bijlify mobile app and third-party monitoring",
+        "IEC 61851 charging sequence"
+      ],
+      "image": "whatsapp-image-2026-11-09-at-21.20.34.jpeg",
+      "document": "11-kw-ac-ty-2-charger.pdf",
+      "visibility": true
+    },
+    {
+      "id": "15kw-dual-ac",
+      "name": "15 kW Dual AC Charger",
+      "category": "AC charging",
+      "power": "7.4 + 7.4 kW",
+      "connector": "Dual Type-2 (as described in application guide)",
+      "supply": "415 V, three phase (planning guide)",
+      "description": "A two-vehicle AC charging arrangement for hotels, residential communities and office parking.",
+      "applications": [
+        "Hotels",
+        "Residential societies",
+        "Office parking",
+        "Malls"
+      ],
+      "features": [
+        "Two-vehicle charging concept",
+        "Destination charging",
+        "Space-efficient shared installation"
+      ],
+      "image": "15-kw-ty-2-ev-chargers.jpeg",
+      "document": null,
+      "visibility": true
+    },
+    {
+      "id": "22kw-ac",
+      "name": "22 kW Type-2 AC Charger",
+      "category": "AC charging",
+      "power": "22 kW",
+      "connector": "Type 2",
+      "supply": "415 V, three phase (planning guide)",
+      "description": "Higher-power destination AC charging for compatible vehicles and commercial locations.",
+      "applications": [
+        "Hotels and resorts",
+        "Shopping malls",
+        "Hospitals",
+        "IT parks and airports"
+      ],
+      "features": [
+        "Wall or pole-mounted installation",
+        "Electrical protection features",
+        "Bijlify app monitoring",
+        "IEC 61851 charging sequence"
+      ],
+      "image": "whatsapp-image-2026-11-09-at-21.20.34.jpeg",
+      "document": "22-kw-ac-type--2-charger.pdf",
+      "visibility": true
+    },
+    {
+      "id": "30kw-dc",
+      "name": "30 kW DC Fast Charger",
+      "category": "DC fast charging",
+      "power": "30 kW",
+      "connector": "CCS2, single gun",
+      "supply": "415 V, three phase (datasheet)",
+      "description": "Entry-level public DC fast charging for city destinations, highway restaurants, fuel stations and commercial parking.",
+      "applications": [
+        "City hotels and restaurants",
+        "Highway restaurants",
+        "Fuel stations",
+        "Public parking"
+      ],
+      "features": [
+        "CCS2 DC fast charging",
+        "Designed for current and next-generation CCS vehicles",
+        "Public charging applications"
+      ],
+      "image": "whatsapp-image-2026-11-09-at-21.24.59-1.jpeg",
+      "document": "x-treme-30kw_single_ccs2.pdf",
+      "visibility": true
+    },
+    {
+      "id": "60kw-dc",
+      "name": "60 kW DC Fast Charger",
+      "category": "DC fast charging",
+      "power": "60 kW",
+      "connector": "Dual CCS2 (datasheet)",
+      "supply": "415 V, three phase (datasheet)",
+      "description": "Commercial DC fast charging for highway locations, hotels, fuel stations, logistics hubs and public charging operators.",
+      "applications": [
+        "Highway fuel stations",
+        "Hotels and resorts",
+        "Malls and commercial parking",
+        "Logistics hubs"
+      ],
+      "features": [
+        "Dual CCS2 outlet configuration",
+        "Configurable power sharing described in manufacturer literature",
+        "Public fast-charging applications"
+      ],
+      "image": "whatsapp-image-2026-11-09-at-21.24.58-2.jpeg",
+      "document": "x-treme-60kw-dual-ccs2-1.pdf",
+      "visibility": true,
+      "notice": "The supplied technical datasheet identifies this model as 60 kW [30 kW × 2]. A separate marketing note describes up to 60 kW on one gun. Confirm the exact operating mode with the manufacturer before publishing the single-gun claim."
+    },
+    {
+      "id": "120kw-dc",
+      "name": "120 kW DC Fast Charger",
+      "category": "DC fast charging",
+      "power": "120 kW",
+      "connector": "2 × CCS2",
+      "supply": "415 V AC ±10%, 3P+N+PE (datasheet)",
+      "description": "High-traffic charging for highways, large hotels, transport hubs, fleet depots and logistics parks.",
+      "applications": [
+        "Highway fuel stations",
+        "Expressway facilities",
+        "Transport hubs",
+        "Fleet depots and logistics parks"
+      ],
+      "features": [
+        "120 kW maximum rated power",
+        "Two charging guns",
+        "Datasheet states up to 60 kW simultaneously per vehicle"
+      ],
+      "image": "charger-placeholder.svg",
+      "document": "120-kw-dual-gun-charger.pdf",
+      "visibility": true
+    },
+    {
+      "id": "240kw-dc",
+      "name": "240 kW DC Ultra-Fast Charger",
+      "category": "DC fast charging",
+      "power": "240 kW (120 kW × 2, datasheet title)",
+      "connector": "Dual CCS2",
+      "supply": "415 V AC, three phase (confirm site design)",
+      "description": "High-capacity charging infrastructure for expressways, fleet depots, bus and truck depots and major charging hubs.",
+      "applications": [
+        "Expressways and major highways",
+        "Large fuel stations",
+        "Truck and bus depots",
+        "Logistics parks and charging hubs"
+      ],
+      "features": [
+        "Dual CCS2 configuration",
+        "High-capacity DC charging",
+        "Designed for high-throughput locations"
+      ],
+      "image": "240-kw-charging-station.jpeg",
+      "document": "x-treme-240kw_dual_ccs2.pdf",
+      "visibility": true
+    }
+  ],
+  "applications": {
+    "title": "Charging solutions by application",
+    "description": "Select charging capacity based on dwell time, vehicle compatibility, available electrical load and expected utilisation.",
+    "items": [
+      {
+        "title": "Residential communities",
+        "description": "AC charging for individual homes, apartments, gated communities and shared parking."
+      },
+      {
+        "title": "Hotels and resorts",
+        "description": "Destination AC charging and DC fast charging options for guest convenience."
+      },
+      {
+        "title": "Highways and fuel stations",
+        "description": "DC fast charging for highway restaurants, fuel stations and travel corridors."
+      },
+      {
+        "title": "Commercial properties",
+        "description": "Charging for offices, malls, hospitals, IT parks and visitor parking."
+      },
+      {
+        "title": "Logistics and fleet depots",
+        "description": "Higher-capacity DC charging for fleet operations, depots and logistics facilities."
+      },
+      {
+        "title": "Public charging operators",
+        "description": "Product options for CPOs planning public charging hubs and multi-charger sites."
+      }
+    ]
+  },
+  "services": {
+    "title": "Project support",
+    "items": [
+      "Charger selection based on application and vehicle compatibility",
+      "Preliminary electrical load and site feasibility discussion",
+      "Product and technical documentation coordination",
+      "Installation scope clarification and commissioning coordination",
+      "Commercial model and operating considerations"
+    ]
+  },
+  "zenBundle": {
+    "title": "Bijlify Zen Bundle",
+    "rate": "₹2.50 per kWh consumed",
+    "description": "A consumption-linked subscription described in the supplied Zen Bundle agreement. The stated fee is charged on a pay-per-use basis.",
+    "hardware": [
+      "Charger lifetime warranty coverage subject to agreement conditions and excluding external damage",
+      "24×7 customer care support",
+      "Technical and end-customer issue handling",
+      "Operational issue management",
+      "Regular charger performance check-up"
+    ],
+    "software": [
+      "Server maintenance",
+      "Cloud space charges",
+      "Payment gateway, refund and settlement process charges",
+      "Bijlify Terminal – CPMS access",
+      "Monitoring and management"
+    ],
+    "note": "Confirm the latest agreement, scope, exclusions, taxes and commercial terms with Bijlify before signing."
+  },
+  "whyUs": {
+    "title": "Why work with Deep Electro Services",
+    "items": [
+      "30 years of electrical-industry experience",
+      "Application-focused AC and DC charger guidance",
+      "Product range for residential, destination and highway use",
+      "Practical discussion of power supply, parking and site constraints",
+      "Support through product selection and deployment coordination"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Will every EV charge at the charger's full rated power?",
+      "answer": "No. For AC charging, the vehicle's onboard charger limits the AC charging rate. For DC charging, the vehicle's supported DC charging curve, battery condition and charger configuration determine the actual rate."
+    },
+    {
+      "question": "What electrical load is required?",
+      "answer": "It depends on the charger model and site conditions. The application guide includes preliminary planning estimates only. Confirm input current, protection, cable sizing, earthing and sanctioned load against the manufacturer's datasheet and a qualified electrical design."
+    },
+    {
+      "question": "Can a dual-gun charger charge two vehicles together?",
+      "answer": "Some dual-gun models support simultaneous charging with power sharing. The available output per vehicle depends on the exact model and configuration; check the relevant datasheet."
+    },
+    {
+      "question": "What is the Bijlify Zen Bundle fee?",
+      "answer": "The supplied Zen Bundle document states ₹2.50 per kWh consumed. Confirm the current agreement and exclusions directly before purchase."
+    }
+  ],
+  "contact": {
+    "title": "Discuss your EV charging project",
+    "description": "Share your location, intended application, vehicle type and available electrical supply. The team can help identify suitable charger options.",
+    "phone": "",
+    "email": "",
+    "address": "Mumbai Metropolitan Region, Maharashtra, India",
+    "formFields": [
+      "Name",
+      "Company",
+      "Mobile number",
+      "Email address",
+      "City",
+      "Product or service interested in",
+      "Message"
+    ],
+    "formNotice": "Use the enquiry form to share your project requirements. Your enquiry will open in the Google Form.",
+    "enquiryUrl": "https://forms.gle/yd9ZEZwc3PDTFzSw5"
+  },
+  "footer": {
+    "text": "Deep Electro Services – EV charging solutions and product guidance for residential, commercial, highway and fleet applications.",
+    "copyright": "© 2026 Deep Electro Services. All rights reserved.",
+    "appLabel": "Download the Bijlify App",
+    "appDescription": "Explore installed Bijlify charging stations across India."
+  },
+  "seo": {
+    "defaultTitle": "Deep Electro Services | Bijlify EV AC & DC Chargers",
+    "defaultDescription": "Explore Bijlify EV AC and DC chargers from 3.3 kW to 240 kW with application guidance from Deep Electro Services."
+  }
+}
