@@ -1,21 +1,17 @@
 {
   "github": {
-    "username": "adityasakare",
+    "username": "Adityasakare",
     "repository": "deep-electro-service",
     "pagesEnabled": true
   },
   "domains": {
     "githubPagesUrl": "https://adityasakare.github.io/deep-electro-service/",
-    "customDomain": "www.deepelectrocharge.com",
-    "useCustomDomain": false,
+    "customDomain": "deepevcharge.co.in",
+    "useCustomDomain": true,
     "enforceHttps": true
   },
   "deployment": {
     "deployToGitHubPages": true,
-    "useCustomDomain": false
-  },
-  "notes": [
-    "GitHub Pages project deployment",
-    "Angular base href must be /deep-electro-service/"
-  ]
+    "useCustomDomain": true
+  }
 }
