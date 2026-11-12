@@ -10,8 +10,8 @@ export interface WebsiteContent {
   about: {title:string;description:string;shortTitle?:string;shortDescription?:string;commitment?:string;longSections?:{title:string;body:string;items?:string[]}[];closing?:string;experience:string;principles:string[]};
   products: Product[];
   applications: {title:string;description:string;items:{title:string;description:string}[]};
-  services: {title:string;items:string[]};
-  zenBundle: {title:string;rate:string;description:string;hardware:string[];software:string[];note:string};
+  services: {title:string;description:string;items:string[];coverageAreas:string[]};
+  serviceDetails: {title:string;description:string;hardware:string[];software:string[];note:string;zenBundle?:{headline:string;introduction:string;summary:string;benefitsTitle:string;benefits:string[];whyTitle:string;whyDescription:string;closing:string}};
   whyUs: {title:string;items:string[]};
   faqs: {question:string;answer:string}[];
   contact: {title:string;description:string;phone:string;email:string;address:string;formFields:string[];formNotice:string};

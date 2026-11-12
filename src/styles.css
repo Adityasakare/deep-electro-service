@@ -68,3 +68,24 @@
 @media(max-width:600px){.brand img{width:68px;height:40px}.header-actions{margin-left:auto}.theme-toggle{padding:9px 10px}.hero-installation{padding:45px 20px}.hero-installation img{max-height:330px}.about-detail-card{padding:22px}.app-download{max-width:100%}}
 
 body.dark-theme{background:#0b1428;color:#eef4ff}
+
+
+/* Continuously scrolling service-area ticker */
+.coverage-section{padding:48px 0 54px;background:#f5f8fc;overflow:hidden}
+.coverage-heading{text-align:center;padding:0 22px 24px}
+.coverage-heading h2{font:800 clamp(24px,3vw,34px)/1.2 Manrope;margin:10px 0 0;color:var(--ink)}
+.coverage-marquee{overflow:hidden;width:100%;border-top:1px solid rgba(18,61,145,.12);border-bottom:1px solid rgba(18,61,145,.12);padding:17px 0;background:rgba(255,255,255,.72)}
+.coverage-track{display:flex;align-items:center;gap:14px;width:max-content;animation:des-coverage-scroll 38s linear infinite}
+.coverage-track span{display:inline-flex;align-items:center;white-space:nowrap;border:1px solid #cfe0f1;background:#fff;color:#123d91;border-radius:999px;padding:11px 20px;font:700 14px Manrope}
+.coverage-track span::before{content:"";width:7px;height:7px;background:#36c5df;border-radius:50%;margin-right:10px;flex:0 0 auto}
+.coverage-marquee:hover .coverage-track{animation-play-state:paused}
+.services-list{max-width:1000px;margin:0 auto}
+.services-list li{padding:8px 0;line-height:1.7}
+.services-coverage{margin:0}
+/* Service areas continuously travel from right to left. */
+@keyframes des-coverage-scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.dark-theme .coverage-section{background:#101c34}
+.dark-theme .coverage-marquee{background:#13213b;border-color:#2b3c5c}
+.dark-theme .coverage-track span{background:#172642;border-color:#405577;color:#eaf4ff}
+.dark-theme .coverage-heading h2{color:#f2f7ff}
+@media(prefers-reduced-motion:reduce){.coverage-track{animation:none;flex-wrap:wrap;width:100%;justify-content:center}.coverage-track span[aria-hidden="true"]{display:none}}

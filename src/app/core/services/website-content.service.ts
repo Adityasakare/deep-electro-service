@@ -8,8 +8,8 @@ const FALLBACK: WebsiteContent = {
   navigation:[{label:'Home',path:'/'},{label:'Products',path:'/products'},{label:'Contact',path:'/contact'}],
   home:{eyebrow:'EV charging',headline:'Charging solutions for every journey.',description:'Explore AC and DC EV charging solutions.',primaryCta:'Explore products',secondaryCta:'Contact us',highlights:[]},
   about:{title:'About us',description:'Deep Electro Services supports EV charging projects.',experience:'',principles:[]},
-  products:[],applications:{title:'Applications',description:'',items:[]},services:{title:'Services',items:[]},
-  zenBundle:{title:'Zen Bundle',rate:'',description:'',hardware:[],software:[],note:''},whyUs:{title:'Why choose us',items:[]},
+  products:[],applications:{title:'Applications',description:'',items:[]},services:{title:'Services',description:'',items:[],coverageAreas:[]},
+  serviceDetails:{title:'Technical & Operational Support',description:'',hardware:[],software:[],note:''},whyUs:{title:'Why choose us',items:[]},
   faqs:[],contact:{title:'Contact us',description:'',phone:'',email:'',address:'',formFields:[],formNotice:''},
   footer:{text:'',copyright:''},seo:{defaultTitle:'Deep Electro Services',defaultDescription:'EV charging solutions'}
 };

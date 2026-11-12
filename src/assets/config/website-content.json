@@ -41,8 +41,8 @@
       "path": "/applications"
     },
     {
-      "label": "Zen Bundle",
-      "path": "/zen-bundle"
+      "label": "Services",
+      "path": "/services"
     },
     {
       "label": "Contact",
@@ -295,8 +295,7 @@
       ],
       "image": "whatsapp-image-2026-11-09-at-21.24.58-2.jpeg",
       "document": "x-treme-60kw-dual-ccs2-1.pdf",
-      "visibility": true,
-      "notice": "The supplied technical datasheet identifies this model as 60 kW [30 kW × 2]. A separate marketing note describes up to 60 kW on one gun. Confirm the exact operating mode with the manufacturer before publishing the single-gun claim."
+      "visibility": true
     },
     {
       "id": "120kw-dc",
@@ -317,7 +316,7 @@
         "Two charging guns",
         "Datasheet states up to 60 kW simultaneously per vehicle"
       ],
-      "image": "charger-placeholder.svg",
+      "image": "bijlify-120kw-installation.jpeg",
       "document": "120-kw-dual-gun-charger.pdf",
       "visibility": true
     },
@@ -376,34 +375,30 @@
     ]
   },
   "services": {
-    "title": "Project support",
+    "title": "Our Services",
+    "description": "Technical guidance and practical support for EV charging projects, from product selection and site assessment to installation coordination and ongoing operational support.",
     "items": [
       "Charger selection based on application and vehicle compatibility",
       "Preliminary electrical load and site feasibility discussion",
       "Product and technical documentation coordination",
       "Installation scope clarification and commissioning coordination",
       "Commercial model and operating considerations"
+    ],
+    "coverageAreas": [
+      "Mumbai",
+      "Mumbai Suburban",
+      "Thane",
+      "Panvel",
+      "Navi Mumbai",
+      "Raigad",
+      "Malshej Ghat",
+      "Alibaug",
+      "Lonavala",
+      "Surat",
+      "Palghar",
+      "Karjat",
+      "Khopoli"
     ]
-  },
-  "zenBundle": {
-    "title": "Bijlify Zen Bundle",
-    "rate": "₹2.50 per kWh consumed",
-    "description": "A consumption-linked subscription described in the supplied Zen Bundle agreement. The stated fee is charged on a pay-per-use basis.",
-    "hardware": [
-      "Charger lifetime warranty coverage subject to agreement conditions and excluding external damage",
-      "24×7 customer care support",
-      "Technical and end-customer issue handling",
-      "Operational issue management",
-      "Regular charger performance check-up"
-    ],
-    "software": [
-      "Server maintenance",
-      "Cloud space charges",
-      "Payment gateway, refund and settlement process charges",
-      "Bijlify Terminal – CPMS access",
-      "Monitoring and management"
-    ],
-    "note": "Confirm the latest agreement, scope, exclusions, taxes and commercial terms with Bijlify before signing."
   },
   "whyUs": {
     "title": "Why work with Deep Electro Services",
@@ -429,15 +424,15 @@
       "answer": "Some dual-gun models support simultaneous charging with power sharing. The available output per vehicle depends on the exact model and configuration; check the relevant datasheet."
     },
     {
-      "question": "What is the Bijlify Zen Bundle fee?",
-      "answer": "The supplied Zen Bundle document states ₹2.50 per kWh consumed. Confirm the current agreement and exclusions directly before purchase."
+      "question": "What support services are available for Bijlify EV chargers?",
+      "answer": "Deep Electro Services can coordinate product guidance, technical support, charger performance follow-up and software-related support. The applicable scope and terms are confirmed in the service agreement."
     }
   ],
   "contact": {
     "title": "Discuss your EV charging project",
     "description": "Share your location, intended application, vehicle type and available electrical supply. The team can help identify suitable charger options.",
-    "phone": "9819629910",
-    "email": "deepelectroservices@gmail.com",
+    "phone": "",
+    "email": "",
     "address": "Mumbai Metropolitan Region, Maharashtra, India",
     "formFields": [
       "Name",
@@ -460,5 +455,41 @@
   "seo": {
     "defaultTitle": "Deep Electro Services | Bijlify EV AC & DC Chargers",
     "defaultDescription": "Explore Bijlify EV AC and DC chargers from 3.3 kW to 240 kW with application guidance from Deep Electro Services."
+  },
+  "serviceDetails": {
+    "title": "Technical & Operational Support",
+    "description": "We coordinate technical and operational support to help customers manage their EV charging infrastructure with confidence. Final scope and applicable terms are confirmed in the relevant service agreement.",
+    "hardware": [
+      "Charger lifetime warranty coverage subject to agreement conditions and excluding external damage",
+      "24×7 customer care support",
+      "Technical and end-customer issue handling",
+      "Operational issue management",
+      "Regular charger performance check-up"
+    ],
+    "software": [
+      "Server maintenance",
+      "Cloud space charges",
+      "Payment gateway, refund and settlement process charges",
+      "Bijlify Terminal – CPMS access",
+      "Monitoring and management"
+    ],
+    "note": "Confirm the latest agreement, scope, exclusions, taxes and commercial terms with Bijlify before signing.",
+    "zenBundle": {
+      "headline": "Bijlify Zen Bundle – Smart Maintenance, Complete Peace of Mind!",
+      "introduction": "Why pay a high fixed Annual Maintenance Contract (AMC) when you can choose the smarter Bijlify Zen Bundle?",
+      "summary": "Enjoy comprehensive charger support through a consumption-linked model, with minimum charges based on actual electricity usage.",
+      "benefitsTitle": "Key Benefits",
+      "benefits": [
+        "Lifetime hardware warranty (excluding external damage), as per agreement.",
+        "12×7 technical and customer support.",
+        "Regular charger performance monitoring.",
+        "Software, cloud server and Bijlify Terminal (CPMS) management.",
+        "Payment settlement and refund support.",
+        "Hassle-free maintenance and operational assistance."
+      ],
+      "whyTitle": "Why Choose Zen Bundle?",
+      "whyDescription": "No expensive fixed annual AMC commitment. Get comprehensive hardware and software support with a pay-as-you-use approach.",
+      "closing": "Choose Bijlify Zen Bundle – Save on Maintenance, Enjoy Lifetime Support and Charge with Confidence!"
+    }
   }
 }
